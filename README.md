@@ -1,3 +1,3 @@
 # ScriptyPedia
 
-prit("Welcome to ScriptyPedia!")
+print("Welcome to ScriptyPedia!")

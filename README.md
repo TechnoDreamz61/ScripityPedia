@@ -1,2 +1,3 @@
-# ScripityPedia
-Page of different types of scripts!
+# ScriptyPedia
+
+prit("Welcome to ScriptyPedia!")

@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/vividx07/nova-softworks/refs/heads/main/loader.lua
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vividx07/nova-softworks/refs/heads/main/loader.lua",true))()

